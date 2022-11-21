@@ -35,9 +35,9 @@ document.querySelector("#cards").innerHTML =
   createcard(
     "28/11",
     "segunda",
-    creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil")
+    creategame("servia", "20:00", "Brasil") +
+      creategame("servia", "20:00", "Brasil") +
+      creategame("servia", "20:00", "Brasil")
   ) +
   createcard(
     "02/12",
@@ -52,65 +52,4 @@ document.querySelector("#cards").innerHTML =
     creategame("suiça", "07:00", "camarões") +
       creategame("suiça", "07:00", "camarões") +
       creategame("suiça", "07:00", "camarões")
-  ) +
-  createcard(
-    "28/11",
-    "segunda",
-    creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil")
-  ) +
-  createcard(
-    "02/12",
-    "sexta",
-    creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil")
-  ) +
-  createcard(
-    "24/11",
-    "quinta",
-    creategame("suiça", "07:00", "camarões") +
-      creategame("suiça", "07:00", "camarões") +
-      creategame("suiça", "07:00", "camarões")
-  ) +
-  createcard(
-    "28/11",
-    "segunda",
-    creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil")
-  ) +
-  createcard(
-    "02/12",
-    "sexta",
-    creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil")
-  ) +
-  createcard(
-    "24/11",
-    "quinta",
-    creategame("suiça", "07:00", "camarões") +
-      creategame("suiça", "07:00", "camarões") +
-      creategame("suiça", "07:00", "camarões")
-  ) +
-  createcard(
-    "28/11",
-    "segunda",
-    creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil")
-  ) +
-  createcard(
-    "02/12",
-    "sexta",
-    creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil") +
-      creategame("servia", "20:00", "brasil")
-  )        
-
-     //animation
-       
-   
- 
+  ) 
